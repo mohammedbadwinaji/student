@@ -1,0 +1,59 @@
+[
+	{
+		"id": "1234",
+		"title": "Introduction to JS",
+		"rate": 2,
+		"studentCount": 5,
+		"courseImage": null,
+		"time": "02h 20m",
+		"instructor": {
+			"image": null,
+			"firstName": "Mohammed",
+			"lastName": "Naji"
+		},
+		"price": {
+			"currency": "USD",
+			"value": "200",
+			"updated": null
+		},
+		"level": "Biggener"
+	},
+	{
+		"id": "5678",
+		"title": "Introduction to JS",
+		"rate": 2,
+		"studentCount": 5,
+		"courseImage": null,
+		"time": "02h 20m",
+		"instructor": {
+			"image": null,
+			"firstName": "Mohammed",
+			"lastName": "Naji"
+		},
+		"price": {
+			"currency": "USD",
+			"value": "200",
+			"updated": null
+		},
+		"level": "Biggener"
+	},
+	{
+		"id": "9101",
+		"title": "Introduction to JS",
+		"rate": 2,
+		"studentCount": 5,
+		"courseImage": null,
+		"time": "02h 20m",
+		"instructor": {
+			"image": null,
+			"firstName": "Mohammed",
+			"lastName": "Naji"
+		},
+		"price": {
+			"currency": "USD",
+			"value": "200",
+			"updated": null
+		},
+		"level": "Biggener"
+	}
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "121415",
+    "title": "Become a Certified Web Developer: HTML, CSS and JavaScript",
+    "subtitle": "Learn: HTML | CSS | JavaScript | Web programming | Web development | Front-end | Responsive | JQuery",
+    "courseImage": "",
+    "rate": 4,
+    "studentCount": 2000,
+    "reviews": 50,
+    "instructor": {
+      "firstName": "Mohammed",
+      "lastName": "Naji",
+      "image": ""
+    },
+    "language": "english",
+
+    "includes": {
+      "articlesCount": 15,
+      "quizesCount": 10,
+      "videoTotalTime": "7.5 hourse and 45 minutes"
+    },
+
+    "price": {
+      "currency": "USD",
+      "value": "500",
+      "updated": null
+    }
+
+  },
+  {
+    "id": "121415",
+    "title": "Become a Certified Web Developer: HTML, CSS and JavaScript",
+    "subtitle": "Learn: HTML | CSS | JavaScript | Web programming | Web development | Front-end | Responsive | JQuery",
+    "courseImage": "",
+    "rate": 4,
+    "studentCount": 2000,
+    "reviews": 50,
+    "instructor": {
+      "firstName": "Mohammed",
+      "lastName": "Naji",
+      "image": ""
+    },
+    "language": "english",
+
+    "includes": {
+      "articlesCount": 15,
+      "quizesCount": 10,
+      "videoTotalTime": "7.5 hourse and 45 minutes"
+    },
+
+    "price": {
+      "currency": "USD",
+      "value": "500",
+      "updated": null
+    }
+
+  }
+]
